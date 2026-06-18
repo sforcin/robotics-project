@@ -47,12 +47,12 @@ For each paper, try to answer:
 Notes that span multiple papers rather than a single row, e.g. recurring outcome measures, common platforms, gaps in the literature.
 
 From reading the papers on a surface level, I am starting to understand the pattern of trying to take concepts from psychology and applying them to AI and robotics models, in order to generate a seamless and "healthy" interaction with the models. With AI being used so openly, it is important to create agents that will be used for good rather than bad, as well as create agents that can be used with kids.
--
+
 
 ## Open Questions for the Project
 
 In terms of the project, which aspect of the spectrum should we focus on? Should we focus on the personas and making them better ? I understand the overall concepts, I think I just need to narrow it down a little.
--
+
 
 
 
