@@ -15,6 +15,7 @@ Hello, how can I assist you today?
 * Does the persuasion strategy come through clearly?
 * Are there situations where two personas feel too similar?
 * Which prompts seem most effective and consistent?
+* The script and documentation for this task can be found under /personas.
 
 
 
