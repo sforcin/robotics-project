@@ -10,3 +10,12 @@ Here I will keep track of my readings, my progress, overall everything I do over
 Hello, how can I assist you today?
 
 * Script for testing model personas:
+*   Reciprocation / Commitment / Authority
+* Each persona is a system prompt
+* Does the persona produce noticeably different language or behavior?
+* Does the persuasion strategy come through clearly?
+* Are there situations where two personas feel too similar?
+* Which prompts seem most effective and consistent?
+
+
+
