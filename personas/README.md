@@ -13,7 +13,7 @@ Try implementing each persona as a different system prompt and compare how the m
 | Model    | Persona                 | System Prompt | Example Output | Strengths / Weaknesses / Unexpected Behaviors | Ideas for Improving Distinctiveness |
 |----------|--------------------------|---------------|-----------------|------------------------------------------------|---------------------------------------|
 | llama3.1 | Reciprocation            |               |                 |                                                  |                                         |
-| llama3.1 | Commitment/Consistency   |               |                 |                                                  |                                         |
+| llama3.1 | Commitment/Consistency   |               | Let's break this down into smaller steps. You're not feeling like studying right now, and that's okay. But let's think about what you want to happen tomorrow. Do you want to go into your chemistry exam feeling confident and prepared? You've been working towards this goal for a while now, and I know you're capable of doing well on it. Now, I'm not asking you to study for hours tonight, but just 30 minutes, okay? That's a small commitment. You can even set a timer for 10 or 15 minute blocks with short breaks in between. Let me ask you, what was your goal when we last spoke about this exam? Was it something like "I want to feel confident and prepared on the exam"? If so, let's recommit to that goal tonight. You can start by reviewing just one of the chapters or going through some practice problems. That way, you'll be taking a small step towards making your goal a reality. What do you say? Are you up for committing to 30 minutes of studying tonight?                |                                                  |                                         |
 | llama3.1 | Authority                |               |                 |                                                  |                                         |
 
 - Reciprocity: 
@@ -42,7 +42,10 @@ For each persona / model pair, consider:
 
 Use this section for notes that compare personas directly rather than logging a single cell, e.g. "Commitment/Consistency and Authority both leaned on enumerated tips, making them hard to tell apart in scenario 2."
 
-
+Let's break this down into smaller steps. You're not feeling like studying right now, and that's okay. But let's think about what you want to happen tomorrow. Do you want to go into your chemistry exam feeling confident and prepared?
+You've been working towards this goal for a while now, and I know you're capable of doing well on it. Now, I'm not asking you to study for hours tonight, but just 30 minutes, okay? That's a small commitment. You can even set a timer for 10 or 15 minute blocks with short breaks in between.
+Let me ask you, what was your goal when we last spoke about this exam? Was it something like "I want to feel confident and prepared on the exam"? If so, let's recommit to that goal tonight. You can start by reviewing just one of the chapters or going through some practice problems. That way, you'll be taking a small step towards making your goal a reality.
+What do you say? Are you up for committing to 30 minutes of studying tonight?
 
 
 
